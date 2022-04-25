@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+padding: 0px;
+}
+body{
+    background-color: blueviolet;
+    font-family: inherit;
+}
+.kapsa{
+    width: 900px;
+    margin: 0px auto;
+    background-color: lavender;
+    padding: 50px;
+
+}
+h1{
+    text-align: center;
+
+}
+nav{
+    text-align: center;
+}
+h3{text-align:left;
+margin-bottom: 15px;
+}
+h2{
+    margin-bottom: 30px;
+}
+img{
+    margin-top: 30px;
+}
